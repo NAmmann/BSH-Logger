@@ -5,3 +5,7 @@
 [submodule "extern/cpp-base64"]
 	path = extern/cpp-base64
 	url = https://github.com/ReneNyffenegger/cpp-base64.git
+
+[submodule "doc/bosch-shc-api-docs"]
+	path = doc/bosch-shc-api-docs
+	url = https://github.com/BoschSmartHome/bosch-shc-api-docs.git
